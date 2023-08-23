@@ -1,5 +1,5 @@
 # PROJECT DESCRPTION
-![](Images/intro.jpg)
+![](Images/intro.JPG)
 _______________________________________________________
 This Uber Data Analysis project aims to uncover valuable insights into the rush hour patterns and maximum pickups in the bustling city of New York. By analyzing extensive data collected over the course of 6 months, I will delve into the intricate details of Uber rides during peak hours, identifying the busiest times and locations. <br>
 Through advanced statistical techniques and visualization tools, I will uncover trends, patterns, and correlations that will enable us to optimize operations, improve efficiency, and enhance the overall Uber experience for both drivers and riders. <br>
@@ -14,8 +14,7 @@ The codes were executed using Jupyter notebook.
 - **Seaborn :-** beautiful and fast plots
 - **Ploty :-** dynamic plot
 
-### EXTRACT FILES AND READ DATA FOR ANALYSIS
-![](Images/Dataset.JPG) <br>
+### READ DATA FOR ANALYSIS
 ![](Images/read.JPG)
 
 ### DATA TRANSFORMATION
@@ -23,7 +22,7 @@ Data pre-processing/Data cleaning was carried out.
 - Checking and dropping duplicated values <br> ![](Images/duplicate.JPG)
 - Checking for missing values <br> ![](Images/null.JPG)
 - Converting the "Pickup_date" column to a _data-time_ data type from _object_ data type <br> ![](Images/object_dtype.JPG) <br> ![](Images/datetime_dtype.JPG)
-
+  
 ### PROBLEM STATEMENT: Which month have the maximum Uber pickups in New York City?
 _______________________________________________________________________________________
 ![](Images/1line.JPG) <br>
