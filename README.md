@@ -19,7 +19,7 @@ The codes were executed using Jupyter notebook.
 
 ### DATA TRANSFORMATION
 Data pre-processing/Data cleaning was carried out.
-- Checking and dropping duplicated values <br> ![](Images/duplicate.JPG)
+- Checking for duplicated values <br> ![](Images/duplicate.JPG)
 - Checking for missing values <br> ![](Images/null.JPG)
 - Converting the "Date" column to a _data-time_ data type from _object_ data type <br> ![](Images/object.JPG) <br> ![](Images/datetime.JPG)
 - Sorting <br> ![](Images/sort.JPG)
