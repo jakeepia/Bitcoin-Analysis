@@ -1,9 +1,8 @@
 # PROJECT DESCRPTION
 ![](Images/intro.JPG)
 _______________________________________________________
-This Uber Data Analysis project aims to uncover valuable insights into the rush hour patterns and maximum pickups in the bustling city of New York. By analyzing extensive data collected over the course of 6 months, I will delve into the intricate details of Uber rides during peak hours, identifying the busiest times and locations. <br>
-Through advanced statistical techniques and visualization tools, I will uncover trends, patterns, and correlations that will enable us to optimize operations, improve efficiency, and enhance the overall Uber experience for both drivers and riders. <br>
-This project promises to provide invaluable insights into the dynamics of New York's transportation landscape, ultimately shaping the future of urban mobility.
+This project aims to conduct a comprehensive analysis of Bitcoin's price fluctuations over time, specifically focusing on the change in stock price and closing rates. <br> 
+By leveraging advanced data analysis techniques, valuable insights into the underlying trends and patterns that drive Bitcoin's market behavior will be uncovered.
 
 ### Skills/ concepts demonstrated:<br>
 
@@ -20,7 +19,7 @@ The codes were executed using Jupyter notebook.
 ### DATA TRANSFORMATION
 Data pre-processing/Data cleaning was carried out.
 - Checking for duplicated values <br> ![](Images/duplicate.JPG)
-- Checking for missing values <br> ![](Images/null.JPG)
+- Checking for missing values <br> ![](Images/nulll.JPG)
 - Converting the "Date" column to a _data-time_ data type from _object_ data type <br> ![](Images/object.JPG) <br> ![](Images/datetime.JPG)
 - Sorting <br> ![](Images/sort.JPG)
   
@@ -42,3 +41,5 @@ ________________________________________________________________________________
 - Quarterly <br> ![](Images/quarter.JPG)
 - Monthly <br> ![](Images/month.JPG)
 
+### OBSERVATION
+After year 2015, there was a sharp increase on the closing prices.
