@@ -21,25 +21,24 @@ The codes were executed using Jupyter notebook.
 Data pre-processing/Data cleaning was carried out.
 - Checking and dropping duplicated values <br> ![](Images/duplicate.JPG)
 - Checking for missing values <br> ![](Images/null.JPG)
-- Converting the "Pickup_date" column to a _data-time_ data type from _object_ data type <br> ![](Images/object_dtype.JPG) <br> ![](Images/datetime_dtype.JPG)
+- Converting the "Date" column to a _data-time_ data type from _object_ data type <br> ![](Images/object.JPG) <br> ![](Images/datetime.JPG)
+- Sorting <br> ![](Images/sort.JPG)
   
-### PROBLEM STATEMENT: Which month have the maximum Uber pickups in New York City?
+### PROBLEM STATEMENT: What was the change in price of the stock overtime?
 _______________________________________________________________________________________
-![](Images/1line.JPG) <br>
-![](Images/1bar.JPG)
+![](Images/ps1.JPG) 
 
-### PROBLEM STATEMENT: Lets find out hourly rush in New York on all days 
+### PROBLEM STATEMENT: Analysing open, high, low, close values of Bitcoin
 ___________________________________________________________________________________
-![](Images/2line.JPG) 
+![](Images/ps2.JPG) 
 
-### PROBLEM STATEMENT: Which base-number has most number of active vehicles?
+### PROBLEM STATEMENT: Analysing closing price in-depth!
 ___________________________________________________________________________________
-![](Images/3box.JPG) 
+![](Images/ps3.JPG) 
 
-### PROBLEM STATEMENT: At what locations in New York City we are getting rush?
+### PROBLEM STATEMENT: Display closing Price on Yearly, Quarterly, Monthly basis
 ___________________________________________________________________________________
-![](Images/4map.JPG) 
+- Yearly <br> ![](Images/year.JPG)
+- Quarterly <br> ![](Images/quarter.JPG)
+- Monthly <br> ![](Images/month.JPG)
 
-### PROBLEM STATEMENT: Examine rush on Hour and Weekday
-___________________________________________________________________________________
-![](Images/5table.JPG) 
