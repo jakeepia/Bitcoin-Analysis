@@ -23,22 +23,22 @@ Data pre-processing/Data cleaning was carried out.
 - **Sorting** <br> ![](Images/sort.JPG)
   
 ### Problem Statement:
-What was the change in price of the Stock overtime?
+What was the change in price of the stock overtime?
 _______________________________________________________________________________________
 ![](Images/ps1.JPG) 
 
 ### Problem Statement:
-Analysing Open, High, Low, Close values of Bitcoin
+Analysing open, high, low, close values of Bitcoin
 ___________________________________________________________________________________
 ![](Images/ps2.JPG) 
 
 ### Problem Statement:
-Analysing Closing price in-depth!
+Analysing closing price in-depth!
 ___________________________________________________________________________________
 ![](Images/ps3.JPG) 
 
 ### Problem Statement:
-Display Closing price on Yearly, Quarterly, Monthly basis
+Display closing price on yearly, quarterly, monthly basis
 ___________________________________________________________________________________
 - **Yearly** <br> ![](Images/year.JPG)
 - **Quarterly** <br> ![](Images/quarter.JPG)
