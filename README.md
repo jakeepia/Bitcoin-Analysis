@@ -12,7 +12,7 @@ The codes were executed using Jupyter notebook.
 - **Seaborn :-** Beautiful and fast plots
 - **Ploty :-** Dynamic plot
 
-### Read Data For Analysis
+### Read Data for Analysis
 ![](Images/read.JPG)
 
 ### Data Transformation
