@@ -5,7 +5,7 @@ The project aims to analyze Bitcoin's price fluctuations from 2013 to 2017, focu
 
 ### Skills/ concepts demonstrated:<br>
 
-The codes were executed using Jupyter notebook.
+The codes were executed using **Jupyter notebook**.
 - **Pandas :-** Collect and modify data
 - **Numpy :-** Carry out numeric features
 - **Matplotlib :-** Base model for data visualization
