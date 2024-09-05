@@ -1,5 +1,5 @@
 # PROJECT DESCRPTION
-![](intro1.JPG)
+![](intro.JPG)
 _______________________________________________________
 This project aims to conduct a comprehensive analysis of Bitcoin's price fluctuations over time, specifically focusing on the change in stock price and closing rates. <br> 
 By leveraging advanced data analysis techniques, valuable insights into the underlying trends and patterns that drive Bitcoin's market behavior will be uncovered.
