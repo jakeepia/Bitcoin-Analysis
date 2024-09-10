@@ -3,7 +3,7 @@
 _______________________________________________________
 The project aims to analyze Bitcoin's price fluctuations from 2013 to 2017, focusing on changes in stock price and closing rates. By using advanced data analysis techniques, it seeks to uncover trends and patterns that drive Bitcoin's market behavior.
 
-### Skills/ concepts demonstrated:<br>
+### Skills/ Concepts Demonstrated:<br>
 
 The codes were executed using **Jupyter notebook**.
 - **Pandas :-** Collect and modify data
